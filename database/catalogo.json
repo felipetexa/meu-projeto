@@ -1,0 +1,27 @@
+[
+    {
+    "codigo": 1,
+    "titulo": "O Poderoso Chefão",
+    "duracao": 2.55,
+    "atores": [ "Marlon Brando", "Al Pacino", "Robert de Niro" ],
+    "anoDeLancamento": 1972,
+    "emCartaz": false
+},
+
+{
+    "codigo": 2,
+    "titulo": "A Origem",
+    "duracao": 2.28,
+    "atores": [ "Leonardo DiCaprio", "Tom Hardy", "Cillian Murphy" ],
+    "anoDeLancamento": 2010,
+    "emCartaz": true
+},
+  {
+    "codigo": 3,
+    "titulo": "Um Sonho de Liberdade",
+    "duracao": 2.22,
+    "atores": [ "Morgan Freeman", "Tim Robbins", "Clancy Brown" ],
+    "anoDeLancamento": 1994,
+    "emCartaz": false
+  }
+]
